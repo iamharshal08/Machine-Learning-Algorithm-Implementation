@@ -1,6 +1,5 @@
-Name: Shreyash Shrivastava
-ID: 1001397477
-Class: CSE 6363
+Name: Harshal Sharma
+ID: 11592087
 
 Programming Language Used: Python 3.6 :: Anaconda, Inc.
 --------------------------
